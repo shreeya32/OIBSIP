@@ -4,7 +4,7 @@
 
 ### Task 2 — BMI Calculator
 
-A beginner-level command-line BMI Calculator developed using Python.
+A command-line BMI Calculator developed using Python.
 
 ## Features
 
