@@ -4,7 +4,7 @@
 
 ### Task 3 — Random Password Generator
 
-A beginner-level command-line password generator developed using Python.
+A command-line password generator developed using Python.
 
 ## Features
 
